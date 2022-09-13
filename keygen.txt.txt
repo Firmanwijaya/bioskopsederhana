@@ -1,0 +1,14 @@
+API Key (v3) :
+4f8cc1ec98432a1da5641c2a370889ff
+
+API Read Acces Token (v4) :
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0ZjhjYzFlYzk4NDMyYTFkYTU2NDFjMmEzNzA4ODlmZiIsInN1YiI6IjYzMjA0YmZmYjRhNTQzMDA3YTlmODNjMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.FTc84I4ggtAEHHr0aVEas7hSGVB7MERgr8vmR032mXs
+
+Contoh Permintaan API :
+https://api.themoviedb.org/3/movie/550?api_key=4f8cc1ec98432a1da5641c2a370889ff
+
+Path:
+https://api.themoviedb.org/3
+
+Img Path :
+https://image.tmdb.org/t/p/w500/[path]
